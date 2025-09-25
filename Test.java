@@ -4,5 +4,6 @@ public class Test {
         System.out.println("Halo, Ini Perubahan dilakukan oleh Haqi");
         System.out.println("Ini yang edit Mas Haqi");
         System.out.println("Ini yang edit paduka raja Galang");
+        System.out.println("Galang Suka Aza");
     }
 }
